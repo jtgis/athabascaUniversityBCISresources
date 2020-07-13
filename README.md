@@ -1,13 +1,13 @@
 # athabascaUniversityBCISresources
-Compilation of resources to help students pursuing the BCIS at AU. Resources align with public facing syllabi. Simple and relevant.
+Compilation of resources to help students pursuing the BCIS at AU. Resources align with public facing syllabi. Simple, relevant, and free.
 
-# contributing
+# Contributing
 
 ```
-<h2><a href = "https://www.athabascau.ca/syllabi/comp/comp200.php">COMP200</a></h2>
-	<h3>Unit 1</h3>
-		<h4>Section 1</h4>
-			<p><a href="https://www.youtube.com/watch?v=z-OxzIC6pic">YouTube - Lecture 0 - Introduction to Computer Science I - Harvard</a></p>
+<h2><a href = "Link to course syllabus">Course name</a></h2>
+	<h3>Unit # if applicable</h3>
+		<h4>Section # if applicable</h4>
+			<p><a href="Link to content">Content type (Video, slides, etc) - Title of content - Platform (YouTube, GitHub, etc), Author</a></p>
 ```
 
 <a href="https://jtgis.github.io/athabascaUniversityBCISresources/resources/">Resources</a>
