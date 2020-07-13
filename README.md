@@ -4,6 +4,7 @@ Compilation of resources to help students pursuing the BCIS at AU. Resources ali
 <a href="https://jtgis.github.io/athabascaUniversityBCISresources/resources/">Resources</a>
 
 # Contributing
+Add a new course, section, or unit using the following html. Ordered alphabetically.
 
 ```
 <h2><a href = "Link to course syllabus">Course name</a></h2>
