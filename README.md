@@ -1,6 +1,8 @@
 # athabascaUniversityBCISresources
 Compilation of resources to help students pursuing the BCIS at AU. Resources align with public facing syllabi. Simple, relevant, and free.
 
+Disclaimer: These resources are provided as is. There is no warranty or guarantee that they will be relevant when you need them. Resources were discovered searching the web for terms found in course syllabi.
+
 <a href="https://jtgis.github.io/athabascaUniversityBCISresources/resources/">Resources</a>
 
 # Contributing
